@@ -7,6 +7,9 @@ return [
 	'thread' => [
 		'reply' => ':name has replied to your thread :thread.',
 	],
+	'tickets' => [
+		'escalated' => ":user escalated the ticket :name by :author.",
+	],
 	'unread' => 'Unread',
 	'unread_none' => 'You have no unread notifications.',
 	'view' => [
