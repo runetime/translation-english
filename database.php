@@ -15,7 +15,7 @@ return [
 			'quest_item'  => 'Quest Item',
 		],
 		'create_item' => 'Create Item',
-		'search' => [
+		'search'      => [
 			'clear'      => 'Clear Search',
 			'membership' => 'Membership',
 			'tradable'   => 'Tradable',
@@ -43,7 +43,7 @@ return [
 			'submit' => 'Create Monster',
 		],
 		'create_monster' => 'Create Monster',
-		'search' => [
+		'search'         => [
 			'clear' => 'Clear Search',
 		],
 		'view' => [

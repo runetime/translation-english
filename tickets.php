@@ -1,18 +1,14 @@
 <?php
 return [
-	'title' => 'My Tickets',
-	'card'  => [
-		'mod' => [
-		],
-	],
+	'title'         => 'My Tickets',
 	'create_ticket' => 'Create Ticket',
-	'create' => [
-		'title' => 'Create a Ticket',
-		'name'  => 'Name',
+	'create'        => [
+		'title'          => 'Create a Ticket',
+		'name'           => 'Name',
 		'ticket_message' => 'Ticket Message',
 	],
 	'escalate' => 'Escalate',
-	'index' => [
+	'index'    => [
 		'no_closed'      => 'You have no closed tickets currently.',
 		'no_open'        => 'You have no open tickets currently.',
 		'tickets_closed' => 'Closed Tickets',
@@ -30,7 +26,7 @@ return [
 		'open'      => 'open',
 	],
 	'view' => [
-		'title' => ':name',
+		'title'     => ':name',
 		'currently' => 'This ticket is currently :status.',
 	],
 ];

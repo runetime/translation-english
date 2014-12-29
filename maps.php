@@ -1,6 +1,6 @@
 <?php
 return [
-	'title' => 'Maps',
+	'title'   => 'Maps',
 	'members' => [
 		'title' => 'Members Map',
 	],

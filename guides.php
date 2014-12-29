@@ -1,7 +1,7 @@
 <?php
 return [
-	'title'     => 'Guides',
-	'create_note' => "All textareas on RuneTime, including the ones in this guide, use <a href='/transparency/markdown'>Markdown</a> for styling.",
+	'title'        => 'Guides',
+	'create_note'  => "All textareas on RuneTime, including the ones in this guide, use <a href='/transparency/markdown'>Markdown</a> for styling.",
 	'edited_by'    => 'Edited by :users',
 	'last_updated' => 'Last updated on :date',
 	'locations' => [
@@ -27,7 +27,7 @@ return [
 			'submit'         => 'Create Guide',
 		],
 		'create_quest' => 'Create Quest',
-		'difficulty' => [
+		'difficulty'   => [
 			'title'        => 'Difficulty',
 			'experienced'  => 'Experienced',
 			'grandmaster'  => 'Grandmaster',
@@ -37,8 +37,8 @@ return [
 		],
 		'length' => [
 			'title'     => 'Length',
-			'medium'    => 'Medium',
 			'long'      => 'Long',
+			'medium'    => 'Medium',
 			'short'     => 'Short',
 			'very_long' => 'Very Long',
 		],

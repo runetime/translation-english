@@ -20,7 +20,7 @@ return [
 		'profile_feed' => 'Profile Feed',
 	],
 	'overview' => [
-		'about'        => [
+		'about' => [
 			'empty' => ':name has not written about themselves yet.',
 			'name'  => 'About Me',
 		],

@@ -1,6 +1,6 @@
 <?php
 return [
-	'title' => 'Social Media',
+	'title'    => 'Social Media',
 	'facebook' => [
 		'name' => 'Facebook',
 	],

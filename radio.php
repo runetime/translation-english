@@ -14,7 +14,7 @@ return [
 			'title' => 'Requests',
 		],
 	],
-	'na' => 'N/A', // Not Available
+	'na'      => 'N/A', // Not Available
 	'options' => [
 		'dj_timetable'   => 'DJ Timetable',
 		'edit_timetable' => 'Edit Timetable',
