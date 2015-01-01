@@ -1,11 +1,37 @@
 <?php
 return [
-	'title' => 'Welcome to Our Clan Page!',
-	'p1'    => 'This page will include information on how to join our clan, clan events, and other cool stuff related to our clan!',
-	'p2'    => 'HEADER:How to Join',
-	'p3'    => 'Joining the RuneTime clan has no requirements so anyone can join, even F2P! Simply PM one of our staff members on RuneScape and they will be happy to refer you to a clan member who will then add you to the site, the best people to add would be <b>Static RS</b>, <b>Rune T I M E </b> and <b>DJ Serpent</b> as these people are all active RuneScape players who are in the clan.',
-	'p4'    => 'HEADER:Important Information',
-	'p5'    => 'In the RuneTime clan we want to have as much fun as possible so we will always be planning events and activities, however there are a few rules which we believe will keep the clan happy and friendly if they are stuck too. Below you can find the rules and what will happen if they are broken!',
+	'title'   => 'Welcome to Our Clan Page!',
+	'headers' => [
+		'join' => 'How to Join',
+		'info' => 'Important Information',
+	],
+	'info' => [
+		'header' => 'Important Information',
+		'text'   => 'In the RuneTime clan we want to have as much fun as possible so we will always be planning events and activities, however there are a few rules which we believe will keep the clan happy and friendly if they are stuck too. Below you can find the rules and what will happen if they are broken!',
+	],
+	'intro' => 'This page will include information on how to join our clan, clan events, and other cool stuff related to our clan!',
+	'join'  => [
+		'header' => 'How to Join',
+		'text'   => 'Joining the RuneTime clan has no requirements so anyone can join, even F2P! Simply PM one of our staff members on RuneScape and they will be happy to refer you to a clan member who will then add you to the site, the best people to add would be <b>Static RS</b>, <b>Rune T I M E </b> and <b>DJ Serpent</b> as these people are all active RuneScape players who are in the clan.',
+	],
+	'offenses' => [
+		'arguing'        => 'Excessively Arguing',
+		'discrimination' => 'Any Other Forms of Discrimination',
+		'flaming'        => 'Flaming',
+		'put_down'       => 'Putting Down the Clan or Website',
+		'racism'         => 'Racism',
+		'sexism'         => 'Sexism',
+		'spamming'       => 'Spamming',
+		'warnings_3'     => '3 Warnings',
+		'warnings_6'     => '6 Warnings',
+		'warnings_9'     => '9 Warnings',
+	],
+	'punishments' => [
+		'ban'        => 'Ban',
+		'temp_ban'   => 'Temporary Ban',
+		'temp_again' => 'Temporary Ban Again',
+		'warning'    => 'Warning',
+	],
 	'dt'    => [
 		'l1'  => 'Spamming',
 		'l2'  => 'Flaming',
@@ -24,7 +50,7 @@ return [
 		'l3'  => 'Warning',
 		'l4'  => 'Temporary Ban',
 		'l5'  => 'Temporary Ban',
-		'l6'  => 'Temporary Ban Again',
+		'l6'  => 'Temporary Ban',
 		'l7'  => 'Ban',
 		'l8'  => 'Ban',
 		'l9'  => 'Ban',
