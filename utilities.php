@@ -12,6 +12,7 @@ return [
 	],
 	'name'                 => ':name',
 	'no'                   => 'No',
+	'note'                 => 'Note',
 	'offline'              => 'offline',
 	'online'               => 'online',
 	'open'                 => 'Open', // To open a ticket for example
