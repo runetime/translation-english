@@ -54,7 +54,8 @@ return [
 		'index' => [
 			'title' => 'Recent Status Updates',
 		],
-		'view' => [
+		'update' => 'Update Status',
+		'view'   => [
 			'title'       => 'Status Update by :author',
 			'no_comments' => 'There are no comments! Why not leave a message?',
 		],
