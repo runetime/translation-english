@@ -3,6 +3,7 @@ return [
 	'login' => [
 		'email_address' => 'Email Address',
 		'forgot'        => 'Forgot your password?',
+		'incorrect'     => 'Your login credentials were incorrect.',
 		'login'         => 'Login',
 		'password'      => 'Password',
 	],
