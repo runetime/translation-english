@@ -19,6 +19,10 @@ return [
 		'title'       => 'Password',
 		'confirm_new' => 'Confirm New Password',
 		'current'     => 'Current Password',
+		'error'       => [
+			'incorrect' => 'The current password you entered is incorrect.',
+			'not_match' => 'Your new passwords do not match.',
+		],
 		'new'         => 'New Password',
 		'note'        => 'We will attempt to log you in with your new password.  If there are difficulties please logout and try again with your new password.',
 	],
