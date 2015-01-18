@@ -26,7 +26,8 @@ return [
 		'open'      => 'open',
 	],
 	'view' => [
-		'title'     => ':name',
-		'currently' => 'This ticket is currently :status.',
+		'title'        => ':name',
+		'close_ticket' => 'Close Ticket',
+		'currently'    => 'This ticket is currently :status.',
 	],
 ];
