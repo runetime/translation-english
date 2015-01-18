@@ -4,6 +4,7 @@ return [
 	'affiliated' => 'RuneTime is in no way affiliated to Runescape.',
 	'and'        => 'and',
 	'contact'    => 'contact us',
+	'cookies'    => 'Cookie Policy',
 	'facebook'   => 'Follow RuneTime on Facebook',
 	'follow_us'  => 'Follow Us',
 	'images'     => 'All Runescape images are property of Jagex Ltd.',
