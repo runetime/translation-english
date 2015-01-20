@@ -15,6 +15,11 @@ return [
 		],
 	],
 	'na'      => 'N/A', // Not Available
+	'open'    => [
+		'title'      => 'Open Radio',
+		'click_here' => 'Click Here to Open Radio',
+		'legal'      => 'Due to legalities the radio is required to open in a separate popup.',
+	],
 	'options' => [
 		'dj_timetable'   => 'DJ Timetable',
 		'edit_timetable' => 'Edit Timetable',

@@ -20,6 +20,9 @@ return [
 			'title' => 'Editing a Post in :thread',
 		],
 		'locked' => 'This thread is locked.',
+		'rank'   => [
+			'achieved' => 'Achieved by making :amount posts on the website.',
+		],
 		'report' => [
 			'title' => 'Reporting a Post by :author in thread :thread',
 		],

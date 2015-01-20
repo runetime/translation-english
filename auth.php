@@ -7,6 +7,11 @@ return [
 		'login'         => 'Login',
 		'password'      => 'Password',
 	],
+	'register' => [
+		'email' => [
+			'subject' => 'Registration at RuneTime',
+		],
+	],
 	'reset' => [
 		'title'                 => 'Password Reset',
 		'note'                  => 'An email will be sent to your account with a password reset link.',

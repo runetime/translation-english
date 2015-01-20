@@ -60,6 +60,8 @@ return [
 			'runescape_name' => 'RuneScape Name',
 		],
 	],
+	'rank'   => 'Rank',
+	'role'   => 'Role',
 	'status' => [
 		'away'    => 'Away',
 		'offline' => 'Offline',
