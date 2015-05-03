@@ -4,6 +4,7 @@ return [
 	'privacy'    => 'privacy',      // Meant to be lowercase
 	'terms'      => 'terms of use', // Meant to be lowercase
 	'contact'    => 'Contact Us',
+    'cookies'    => 'cookies',      // Meant to be lowercase
 	'and'        => 'and',
 	'trademarks' => 'are trademarks of',
 	'images'     => 'All Runescape images are property of Jagex Ltd.',
