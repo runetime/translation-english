@@ -15,9 +15,9 @@ return [
 		'note' => 'RuneTime uses <b>Markdown</b>, not BBCode.',
 	],
 	'name' => [
-		'question1' => 'Runescape Name',
 		'continue'  => 'Choose a Type',
 		'note'      => 'Please note that signatures do not update instantly, but instead update every 24 hours at midnight London time.',
+		'question1' => 'Runescape Name',
 	],
 	'style' => [
 		'title' => 'Style of Signature',

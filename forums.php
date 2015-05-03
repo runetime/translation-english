@@ -1,7 +1,7 @@
 <?php
 return [
 	'title' => 'Forums',
-	'bar'  => [
+	'bar'   => [
 		'most_online'   => 'most online',
 		'newest_member' => 'newest member',
 		'total_members' => 'total members',
@@ -20,18 +20,21 @@ return [
 			'title' => 'Editing a Post in :thread',
 		],
 		'locked' => 'This thread is locked.',
+		'rank'   => [
+			'achieved' => 'Achieved by making :amount posts on the website.',
+		],
 		'report' => [
 			'title' => 'Reporting a Post by :author in thread :thread',
 		],
 		'show' => [
-			'ip' => 'IP: :ipAddress',
+			'ip'  => 'IP: :ipAddress',
 			'bar' => [
+				'delete' => 'Delete',
 				'edit'   => 'Edit',
 				'hide'   => 'Hide',
-				'unhide' => 'Unhide',
-				'delete' => 'Delete',
 				'quote'  => 'Quote',
 				'report' => 'Report',
+				'unhide' => 'Unhide',
 			],
 		],
 	],
@@ -54,10 +57,11 @@ return [
 		'index' => [
 			'title' => 'Recent Status Updates',
 		],
-		'view' => [
-			'title' => 'Status Update by :author',
+		'update' => 'Update Status',
+		'view'   => [
+			'title'       => 'Status Update by :author',
 			'no_comments' => 'There are no comments! Why not leave a message?',
-		]
+		],
 	],
 	'subforums' => [
 		'create_topic' => 'Start New Topic',
@@ -75,16 +79,16 @@ return [
 			],
 			'poll' => [
 				'name'      => 'Poll',
+				'answer'    => 'Answer :number',
+				'question'  => 'Question :number',
 				'summary'   => 'Click here if you would like to create a poll.',
 				'title'     => 'Poll Title',
-				'question'  => 'Question :number',
-				'answer'    => 'Answer :number',
 			],
 			'tags' => [
 				'title'       => 'Tag: :name',
+				'help'        => 'If you use tags separate all tags by a comma.',
 				'name'        => 'Tags',
 				'placeholder' => 'runescape, event',
-				'help'        => 'If you use tags separate all tags by a comma.',
 			],
 			'post' => [
 				'name' => 'Post',
@@ -107,10 +111,10 @@ return [
 			'switch_visibility' => 'Switch Visibility',
 			'toggle'            => 'Toggle Dropdown',
 		],
+		'started_by' => 'Started by :author',
 		'view' => [
 			'title' => ':name',
 		],
-		'started_by' => 'Started by :author',
 	],
 	'threads'     => ':amount threads',
 	'top_posters' => [

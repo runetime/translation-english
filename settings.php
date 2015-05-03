@@ -8,28 +8,33 @@ return [
 	],
 	'nav' => [
 		'profile_settings' => 'Profile Settings',
-		'photo'            => 'Photo',
-		'password'         => 'Password',
 		'about_me'         => 'About Me',
+		'password'         => 'Password',
+		'photo'            => 'Photo',
+		'runescape'        => 'RuneScape',
 		'signature'        => 'Signature',
 		'social'           => 'Social',
-		'runescape'        => 'RuneScape',
 	],
 	'password' => [
 		'title'       => 'Password',
-		'current'     => 'Current Password',
 		'confirm_new' => 'Confirm New Password',
+		'current'     => 'Current Password',
+		'error'       => [
+			'incorrect' => 'The current password you entered is incorrect.',
+			'not_match' => 'Your new passwords do not match.',
+		],
 		'new'         => 'New Password',
 		'note'        => 'We will attempt to log you in with your new password.  If there are difficulties please logout and try again with your new password.',
 	],
 	'photo' => [
 		'title'   => 'Photo',
-		'current' => 'Current Photo',
 		'change'  => 'Change Photo',
+		'current' => 'Current Photo',
 	],
 	'profile' => [
 		'title'    => 'User Settings',
 		'birthday' => [
+			'name' => 'Birthday',
 			'months' => [
 				1  => 'January',
 				2  => 'February',
@@ -44,16 +49,15 @@ return [
 				11 => 'November',
 				12 => 'December',
 			],
-			'name' => 'Birthday',
 			'note' => 'Entering your birthday is optional.',
 		],
 		'comments_visitors' => [
-			'help' => 'Show last 5 visitors',
 			'name' => 'Comments & Visitors',
+			'help' => 'Show last 5 visitors',
 		],
 		'friends'  => [
-			'help' => 'Show my friends in my profile',
 			'name' => 'Friends',
+			'help' => 'Show my friends in my profile',
 		],
 		'gender'      => 'Gender',
 		'interests'   => 'Interests',
@@ -63,9 +67,9 @@ return [
 			'note' => 'Did someone tell you about us?  Tell us who told you!',
 		],
 		'timezone'  => [
+			'name'  => 'Timezone',
 			'dst'   => 'Automatically detect DST',
 			'hours' => 'hours',
-			'name'  => 'Timezone',
 		],
 	],
 	'runescape' => [

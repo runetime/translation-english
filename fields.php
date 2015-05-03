@@ -8,6 +8,7 @@ return [
 	'name'          => 'Name',
 	'new_title'     => 'New Title',
 	'subject'       => 'Subject',
+	'submit'        => 'Submit',
 	'team'          => 'Team',
 	'title'         => 'Title',
 	'username'      => 'Username',

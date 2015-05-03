@@ -4,8 +4,8 @@ return [
 	'joined'  => 'Joined :date',
 	'message' => 'Message :name',
 	'search'  => [
-		'prefix' => 'Prefix Letter',
 		'order'  => 'Order',
+		'prefix' => 'Prefix Letter',
 		'role'   => 'Role',
 	],
 ];

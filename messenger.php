@@ -1,15 +1,15 @@
 <?php
 return [
-	'title' => 'Messenger',
+	'title'   => 'Messenger',
 	'compose' => 'Compose',
-	'create' => [
+	'create'  => [
 		'title' => 'Compose New Message',
 		'note'  => 'Names are case-sensitive. Separate names by commas.',
 		'send'  => 'Send',
 	],
-	'message' => 'Message',
+	'message'      => 'Message',
 	'participants' => 'Participants',
-	'view' => [
+	'view'         => [
 		'title' => ':name',
 	],
 ];

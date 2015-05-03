@@ -1,7 +1,8 @@
 <?php
 return [
-	'name' => "About Us",
-	'b1' => [
+	'name'  => "About Us",
+	'click' => "Click for discription",
+	'b1'   => [
 		'p1'   => "RuneTime is a fansite that tributes to the wonderful world of RuneScape, an award winning MMORPG. Our ultimate goal is a strong, thriving and friendly community of like minded individuals that come together to have fun both in the game of RuneScape and outside of it. Being a part of many other RuneScape fansite communities, we've learned a lot about what is frustrating, annoying and what can kill a community pretty fast. RuneTime is starting fresh and from the beginning. We're going to do our best to avoid all these problems in the past we have encountered.",
 		'p2'   => "Just some of our features include:",
 		'p3'   => "Ads",

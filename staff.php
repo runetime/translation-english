@@ -13,8 +13,8 @@ return [
 	'checkup' => [
 		'title' => 'Staff Checkup',
 		'team'  => [
-			'content' => 'Content',
 			'community'   => 'Community',
+			'content'     => 'Content',
 			'development' => 'Development',
 			'graphics'    => 'Graphics',
 			'radio'       => 'Radio',
@@ -89,8 +89,8 @@ return [
 		],
 		'live' => [
 			'title'           => 'Radio Live Center',
-			'current_song'    => 'Current Song',
 			'current_message' => 'Current Message',
+			'current_song'    => 'Current Song',
 			'messages'        => 'Messages',
 			'requests'        => 'Requests',
 		],

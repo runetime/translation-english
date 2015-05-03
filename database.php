@@ -15,7 +15,7 @@ return [
 			'quest_item'  => 'Quest Item',
 		],
 		'create_item' => 'Create Item',
-		'search' => [
+		'search'      => [
 			'clear'      => 'Clear Search',
 			'membership' => 'Membership',
 			'tradable'   => 'Tradable',
@@ -39,22 +39,22 @@ return [
 	'monsters' => [
 		'title'  => 'Monsters Database',
 		'create' => [
-			'title' => 'Create a Monster',
+			'title'  => 'Create a Monster',
 			'submit' => 'Create Monster',
 		],
 		'create_monster' => 'Create Monster',
-		'search' => [
+		'search'         => [
 			'clear' => 'Clear Search',
 		],
 		'view' => [
-			'title' => ':name',
-			'drops' => 'Drops',
-			'examine' => 'Examine',
-			'location' => 'Location',
-			'membership' => 'Membership?',
-			'name' => 'Name',
+			'title'             => ':name',
+			'drops'             => 'Drops',
+			'examine'           => 'Examine',
+			'location'          => 'Location',
+			'membership'        => 'Membership?',
+			'name'              => 'Name',
 			'other_information' => 'Other Information',
-			'stats'   => 'Stats',
+			'stats'             => 'Stats',
 		],
 	],
 ];
