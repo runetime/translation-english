@@ -31,7 +31,6 @@ return [
 		],
 		'name_checker' => 'Name Checker',
 		'play'         => 'Play Runescape',
-		'world_map'    => 'World Map',
 	],
 	'runetime' => [
 		'title'      => 'RuneTime',
