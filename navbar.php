@@ -25,10 +25,6 @@ return [
 			'items'    => 'Item Database',
 			'monsters' => 'Monsters Database',
 		],
-		'guides' => [
-			'locations' => 'Location Guides',
-			'quests'    => 'Quest Guides',
-		],
 		'name_checker' => 'Name Checker',
 		'play'         => 'Play Runescape',
 	],
