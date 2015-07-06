@@ -2,7 +2,7 @@
 return [
 	'forums'   => 'Forums',
 	'home'     => 'Home',
-	'logged' => [
+	'logged'   => [
 		'in' => [
 			'logout'        => 'Logout',
 			'messenger'     => 'Messenger',
@@ -21,12 +21,8 @@ return [
 		'title'             => 'Runescape',
 		'calculators'       => 'Calculators',
 		'combat_calculator' => 'Combat Calculator',
-		'databases'         => [
-			'items'    => 'Item Database',
-			'monsters' => 'Monsters Database',
-		],
-		'name_checker' => 'Name Checker',
-		'play'         => 'Play Runescape',
+		'name_checker'      => 'Name Checker',
+		'play'              => 'Play Runescape',
 	],
 	'runetime' => [
 		'title'      => 'RuneTime',
